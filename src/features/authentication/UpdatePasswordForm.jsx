@@ -1,5 +1,5 @@
 import { useForm } from "react-hook-form";
-import { useUpdateUser } from "./useUpdateUser";
+import { useUpdateUser } from "./useUpdateuser";
 import Button from "../../ui/Button";
 import Form from "../../ui/Form";
 import FormRow from "../../ui/FormRow";
