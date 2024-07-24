@@ -116,73 +116,72 @@ The technologies/techniques used are:
 
 -> Login
 
-<img width="1440" alt="Login" src="https://github.com/user-attachments/assets/277f8040-a210-4952-a0ea-88739b5affe3">
+<img width="1440" alt="Login" src="https://github.com/user-attachments/assets/5d381c31-2280-4e57-9926-5e2c60700d5c">
 
 -> Dashboard:
 
-<img width="1440" alt="dashboard" src="https://github.com/user-attachments/assets/c867a82a-50e6-4abe-85c1-999365c63e06">
+<img width="1440" alt="dashboard" src="https://github.com/user-attachments/assets/04331a9f-84f1-48e9-b5b8-80e7763ce77e">
 
-<img width="1439" alt="dashbord2" src="https://github.com/user-attachments/assets/40a9f938-919d-46a6-998c-f7bcef480ef6">
+<img width="1439" alt="dashbord2" src="https://github.com/user-attachments/assets/6d47dfbd-31de-4855-9aa1-828f748b79f8">
 
 -> Bookings: 
 
-<img width="1440" alt="booking1" src="https://github.com/user-attachments/assets/5855b1d8-6582-4eee-aeb9-b123429d898d">
+<img width="1440" alt="booking1" src="https://github.com/user-attachments/assets/92d2d76c-c94a-4dba-9739-4c6a1a5fa7a5">
 
-<img width="1440" alt="booking2" src="https://github.com/user-attachments/assets/daf30953-9d19-4530-82bb-2d27af099db7">
+<img width="1440" alt="booking2" src="https://github.com/user-attachments/assets/d58bb055-5f4a-4eeb-9f05-444393b7cc54">
 
 -> Cabins:
 
-<img width="1440" alt="cabin" src="https://github.com/user-attachments/assets/5ccae213-b5f3-4fa5-aada-a67e3d71002e">
+<img width="1440" alt="cabin" src="https://github.com/user-attachments/assets/98e07ed1-1d8e-4ac3-9dbb-e2cb77252c2d">
 
-<img width="1440" alt="create_cabin" src="https://github.com/user-attachments/assets/4436a31b-4a28-411b-bfa4-66acadd3efa5">
+<img width="1440" alt="create_cabin" src="https://github.com/user-attachments/assets/02e9229d-da1e-4247-8095-73230b7f7f04">
 
 -> Create new user:
 
-<img width="1440" alt="create_user" src="https://github.com/user-attachments/assets/0d91b014-9b20-4718-8f90-3aca0c025cba">
+<img width="1440" alt="create_user" src="https://github.com/user-attachments/assets/a7c75556-344b-4d81-8314-0703ea4edcbe">
 
 -> Settings
 
-<img width="1440" alt="settings" src="https://github.com/user-attachments/assets/a3d73ca2-da6a-4fc0-ac08-ef5179f35cec">
+<img width="1440" alt="settings" src="https://github.com/user-attachments/assets/1ccb7a31-ad6a-49ec-bb8d-a9f2735d1ed4">
 
 -> Update User:
 
-<img width="1440" alt="update_user" src="https://github.com/user-attachments/assets/b969f6d1-4c8f-4021-bb6a-b57527734776">
+<img width="1440" alt="update_user" src="https://github.com/user-attachments/assets/0c412eae-5fb6-46b8-9b25-3683fda7515f">
 
 
 ## ⚫️ Dark Mode Images: 
 
 -> Login
 
-<img width="1440" alt="login" src="https://github.com/user-attachments/assets/29f29a26-78e1-4bba-9ecf-8df1cc937cca">
+<img width="1440" alt="login" src="https://github.com/user-attachments/assets/6cfd9a63-63ac-48e6-b985-ed8a7700a025">
 
 -> Dashboard:
 
-<img width="1440" alt="dashboard" src="https://github.com/user-attachments/assets/49366d91-02a9-48f6-bc06-3302ccc75e35">
+<img width="1440" alt="dashboard" src="https://github.com/user-attachments/assets/6f52c076-7028-4187-baa8-154b6373bd59">
 
 -> Bookings: 
 
-<img width="1440" alt="bookings1" src="https://github.com/user-attachments/assets/7145ba0c-517e-41ce-a437-272d818ea965">
+<img width="1440" alt="bookings1" src="https://github.com/user-attachments/assets/70963afb-e37f-4d90-9bf7-8306ea81b3ba">
 
-<img width="1440" alt="bookings2" src="https://github.com/user-attachments/assets/f177aba3-54a4-4e4c-9df3-6731c35e72fd">
+<img width="1440" alt="bookings2" src="https://github.com/user-attachments/assets/5d1d78c0-897e-40d7-ac87-613b733f38cf">
 
 -> Cabins:
 
-<img width="1440" alt="Cabin" src="https://github.com/user-attachments/assets/54a98337-1ae6-45f2-a07b-ba23e67912c1">
+<img width="1440" alt="Cabin" src="https://github.com/user-attachments/assets/32a7e6ac-15ea-491a-b0ea-bb98cb1a122f">
 
-<img width="1439" alt="create_cabin" src="https://github.com/user-attachments/assets/dfe873a8-6758-4d9f-8a94-b2cd24522d33">
+<img width="1439" alt="create_cabin" src="https://github.com/user-attachments/assets/c9872632-95e8-428c-96a5-310a630cbad7">
 
 -> Create new user:
 
-<img width="1439" alt="create_user_dark" src="https://github.com/user-attachments/assets/29610a13-619b-4ffc-913b-3a3701b01683">
+<img width="1439" alt="create_user_dark" src="https://github.com/user-attachments/assets/329664d2-b478-4703-9310-9a33c0174144">
 
 -> Settings:
 
-<img width="1440" alt="settings" src="https://github.com/user-attachments/assets/ec18b32f-9939-4205-8383-0f0852e2d2de">
+<img width="1440" alt="settings" src="https://github.com/user-attachments/assets/36276146-2c39-4419-abe3-9db6973c5103">
 
 -> Update User:
 
-<img width="1439" alt="update_user" src="https://github.com/user-attachments/assets/2d19171d-d463-4abe-a86f-5b826698606b">
-
+<img width="1439" alt="update_user" src="https://github.com/user-attachments/assets/3ca60cfa-b400-44ab-b9a6-1605d34e87af">
 
 # Note:
 
