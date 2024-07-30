@@ -189,7 +189,7 @@ This website is for hotel management staff not the customer side.
 
 To access the website, visit the following link:
 
--> (Wild-Oasis)[https://wild-oasis-m.vercel.app/login]
+-> [Wild-Oasis](https://wild-oasis-m.vercel.app/login)
 
 -> Login Credentials:
 
