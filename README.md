@@ -185,6 +185,18 @@ The technologies/techniques used are:
 
 # Note:
 
+This website is for hotel management staff not the customer side.
+
+To access the website, visit the following link:
+
+-> (Wild-Oasis)[https://wild-oasis-m.vercel.app/login]
+
+-> Login Credentials:
+
+  => User: rahim@example.com
+
+  => Password: 12345678
+
 Feel free to use the project and in case of any issues or queries, contact me using my socials in my bio.
 
 Happy coding😊
