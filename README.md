@@ -187,9 +187,7 @@ The technologies/techniques used are:
 
 This website is for hotel management staff not the customer side.
 
-To access the website, visit the following link:
-
--> [Wild-Oasis](https://wild-oasis-m.vercel.app/login)
+To access the website, visit the following link: https://wild-oasis-m.vercel.app/
 
 -> Login Credentials:
 
